@@ -1,0 +1,11 @@
+html, body{
+min-height: 100%;
+display: flex;
+flex-direction: column;
+font-weight: bold;
+}
+
+body{font-family: 'Constantia', serif;
+  background-color: Lavender;
+  background-repeat:repeat;
+}
